@@ -1,2 +1,2 @@
-# FNF-Carrot-Mod
-not planned to be completed but to have fun making cool funny mod with beeping man in it
+# FNF-Carrot-Mod-Status
+this project has not been started
